@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/artisant/static/css/main.9963d6b3.css",
+    "main.js": "/artisant/static/js/main.99bcf3de.js",
+    "static/media/img.png": "/artisant/static/media/img.544ed7065a4e5677a07f.png",
+    "index.html": "/artisant/index.html",
+    "main.9963d6b3.css.map": "/artisant/static/css/main.9963d6b3.css.map",
+    "main.99bcf3de.js.map": "/artisant/static/js/main.99bcf3de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9963d6b3.css",
+    "static/js/main.99bcf3de.js"
+  ]
+}
