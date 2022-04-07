@@ -1,0 +1,32 @@
+.card__wrapper {
+  padding-right: 16px;
+  padding-left: 16px;
+  height: 404px;
+  background: url('../../../assets/img.png') no-repeat;
+}
+.product__card {
+  width: 305px;
+  height: 482px;
+  border-radius: 8px;
+  box-shadow: 0px 10px 14px rgba(0, 0, 0, 0.07);
+  margin-right: 12px;
+  margin-bottom: 6px;
+}
+.product__card_created {
+  font-size: 12px;
+  font-weight: 400;
+  color: #f3f3f3;
+}
+.product__card_title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+}
+.card__bottom {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px
+}
+.card__available {
+  display: flex;
+}
